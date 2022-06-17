@@ -1,0 +1,6 @@
+[submodule "book-backend"]
+	path = book-backend
+	url = git@github.com:jazli1999/book-backend.git
+[submodule "book-frontend"]
+	path = book-frontend
+	url = git@github.com:jazli1999/book-frontend.git
