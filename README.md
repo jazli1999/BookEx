@@ -1,5 +1,4 @@
 # BookEx - Book Exchange  
-## Introduction  
 For TUM course SEBA, our team built a web application which facilitates book exchange, and more importantly, also brings people with similar reading tastes together.  
 Once reading history is uploaded, our system automatically matches other users with similar reading tastes.  
 After reaching an exchange agreement, users can start the exchange order right on our web app.  
@@ -18,7 +17,7 @@ The project uses MERN stack.
   - Authentication & authorization with JWT  
   - Exchange order process and detail page  
 - Other pure frontend contribution  
-  - _All_ pages' layout & styles  
+  - All pages' layout & styles shown below  
 ---
 ## Gallery  
 ### Auth Page  
@@ -52,4 +51,4 @@ This page also acts as the main page. It gives a list of recommended bookmates f
 ![Screenshot 2022-08-21 at 19.20.54.png](https://res.cloudinary.com/hxlb1slpj/image/upload/v1661102622/Screenshot_2022_08_21_at_19_20_54_08bcc7cbbc.png)  
 
 **Order detail/progress.**  
-![Screenshot 2022-08-21 at 19.19.11.png](https://res.cloudinary.com/hxlb1slpj/image/upload/v1661102617/Screenshot_2022_08_21_at_19_19_11_4cde907faf.png)
+![Screenshot 2022-08-21 at 19.19.11.png](https://res.cloudinary.com/hxlb1slpj/image/upload/v1661102617/Screenshot_2022_08_21_at_19_19_11_4cde907faf.png)  
